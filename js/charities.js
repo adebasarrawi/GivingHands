@@ -11,7 +11,7 @@ const charities = [
        "Ramadan Expiation Program",
        "Monthly Food Parcel Program"] ,
   
-  image: "../images/Iftar_Meal_Program_for_Jordan_and_Gaza.jpeg",
+  image: "/images/Iftar_Meal_Program_for_Jordan_and_Gaza.jpeg",
   
       description: "Tkiyet Um Ali is a leading humanitarian organization focused on eradicating hunger and food insecurity across Jordan. They provide food assistance and nutritional support to families in need, as well as organizing seasonal campaigns to provide food during Ramadan and other important events. Tkiyet Um Ali also empowers communities by partnering with local organizations to improve health, education, and economic conditions for underserved populations, fostering long-term self-reliance."
   },
